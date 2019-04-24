@@ -1,0 +1,9 @@
+lightgbm
+scikit-optimize
+neptune-client
+psutil
+matplotlib
+optuna
+hyperopt
+bayesian-optimization
+hpbandster
